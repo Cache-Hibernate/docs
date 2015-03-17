@@ -1,0 +1,41 @@
+https://mail.yandex.ua/neo2/?uid=40270829&login=sashakmets#message/2370000006024919852
+https://mail.yandex.ua/neo2/?uid=40270829&login=sashakmets#message/2370000006009064226
+https://mail.yandex.ua/neo2/?uid=40270829&login=sashakmets#message/2370000006033365020
+
+[\JavaLessons\Spring\Hibernate\JDBCExample ** bookstore|books] (Java JDBC. Часть 1 — Введение ** JDBCExample.zip) http://javaxblog.ru/article/java-jdbc-1/
+[\JavaLessons\Spring\Hibernate\HibernateSimpleExample ** bookstore|student] (Java Hibernate. Часть 1 — Введение ** HibernateSimpleExample1.zip) http://javaxblog.ru/article/java-hibernate-1/
+[\JavaLessons\Spring\Hibernate\HibernateExample8 ** bookstore2|student,university] (Hibernate Mapping Many-to-One using Annotations Tutorial ** HibernateExample8.zip) http://www.dzone.com/tutorials/java/hibernate/hibernate-example/hibernate-mapping-many-to-one-using-annotations-1.html
+                                                                                                                                                                      http://javaxblog.ru/article/java-hibernate-2/
+[\JavaLessons\Spring\Hibernate\HibernateExample ** bookstore|statistics,student,test]                  (HibernateExample1.zip)  http://javaxblog.ru/article/java-hibernate-3/
+- [\JavaLessons\Spring\Hibernate\part18\Hibernate_03 ** bookstore|applicant,subject,profession,applicant_result]      (Hibernate. Аннотации вместо XML ** part18.zip) http://java-course.ru/old/students/students.php?name=part15  http://java-course.ru/old/students/students.php?name=part18
+[\JavaLessons\Spring\Hibernate\hibernate_basics ** tutorials|article,category,category_article,hb_user] (Основы Hibernate 3 на примере работы с MySQL + maven ** hibernate_basics.zip) http://www.seostella.com/ru/article/2012/03/17/osnovy-hibernate-3-na-primere-raboty-s-mysql.html
+[\JavaLessons\Spring\Hibernate\HibernateMySQLExample ** tutorials|student,class,student_class] ( + maven + ...hbm.xml)
+[\JavaLessons\Spring\Hibernate\JPAHiberanateExample ** tutorials|cars,sellers] (JPA работа с базой данных используя JPA API + maven + persistence ** JPAHiberanateExample.zip) http://devcolibri.com/1658
+************************************************************************************************************************************************************************************
+[\JavaLessons\Spring\Hibernate\JDBCExample ** bookstore|books] (Java JDBC. Часть 1 — Введение ** JDBCExample.zip) http://javaxblog.ru/article/java-jdbc-1/
+[\JavaLessons\Spring\Hibernate\HibernateSimpleExample1 ** bookstore|student] (Java Hibernate. Часть 1 — Введение ** HibernateSimpleExample1.zip) http://javaxblog.ru/article/java-hibernate-1/
+[\JavaLessons\Spring\Hibernate\HibernateSimpleExample2 ** bookstore2|student,university] (Hibernate Mapping Many-to-One using Annotations Tutorial ** HibernateExample8.zip) http://www.dzone.com/tutorials/java/hibernate/hibernate-example/hibernate-mapping-many-to-one-using-annotations-1.html
+                                                                                                                                                                      http://javaxblog.ru/article/java-hibernate-2/
+[\JavaLessons\Spring\Hibernate\HibernateSimpleExample3 ** bookstore|statistics,student,test]                  (HibernateExample1.zip)  http://javaxblog.ru/article/java-hibernate-3/
+[\JavaLessons\Spring\Hibernate\HibernateSimpleExample4 ** bookstore3|article,category,category_article,hb_user] (Основы Hibernate 3 на примере работы с MySQL + maven ** hibernate_basics.zip) http://www.seostella.com/ru/article/2012/03/17/osnovy-hibernate-3-na-primere-raboty-s-mysql.html
+[\JavaLessons\Spring\Hibernate\HibernateSimpleExample5 ** bookstore4|student,class,student_class] ( + maven + ...hbm.xml)
+[\JavaLessons\Spring\Hibernate\JPAHiberanateExample ** tutorials|cars,sellers] (JPA работа с базой данных используя JPA API + maven + persistence ** JPAHiberanateExample.zip) http://devcolibri.com/1658
+[/JenkinsProjects/jenkins-signup-spring2/Hibernate/HibernateSimpleExample6 ** ehcache|DEPARTMENT] (механизм/способы кэширование SQL-транзакций в Hiberanate)
+
+(Hibernate cache) http://habrahabr.ru/post/135176/
+(взаимодействовать с базой данных, пользуются разными средствами, это: (старый-добрый)"jdbc", "EclipseLink,TopLink,iBatis(MyBatis)", "Spring Framework", "Hibernate") http://habrahabr.ru/post/132385/
+(((Основы Hibernate) http://habrahabr.ru/post/29694/))
+******************************************************************************************
+(jdbc EclipseLink TopLink myBatis Spring Framework Hibernate)
+** http://www.sql.ru/forum/901800/orm-alternativa-hibernate
+   http://www.anydoby.com/jblog/ru/java/2
+   http://javatalks.ru/topics/16120?page=1#77201
+   (Использование связки HSQLDB+DBUnit для Unit-тестирования Java-кода, работающего с базами данных) http://habrahabr.ru/users/jimotozka/favorites/page7/
+************************************************************************************************************************************************************************************
+(angularjs на русском)
+http://angular-doc.herokuapp.com/api/ng.directive:input.checkbox
+http://habrahabr.ru/post/176651/
+http://angular.ru/
+
+
+
