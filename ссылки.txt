@@ -39,3 +39,22 @@ http://angular.ru/
 
 
 
+************************************************************************************************************************************************************************************
+https://github.com/Cache-Hibernate/docs
+https://github.com/Cache-Hibernate/docs/blob/master/hibernate.txt
+(Criteria API что это)
+https://dev.by/lenta/main/sovety-po-java-i-ne-tolko-criteria-v-hibernate
+http://www.ibm.com/developerworks/ru/library/j-typesafejpa/
+(spring передача параметров для контроллера нативном уровень)
+http://rsdn.ru/forum/java/4333828.all
+http://habrahabr.ru/post/111102/
+http://habrahabr.ru/post/134546/
+http://habrahabr.ru/post/113945/
+http://spring-projects.ru/guides/tutorials-bookmarks/
+(statement кеширование)
+http://articles.javatalks.ru/articles/2
+http://habrahabr.ru/post/148446/
+https://msdn.microsoft.com/ru-ru/library/aa342326%28v=sql.110%29.aspx
+http://habrahabr.ru/post/101342/
+
+
